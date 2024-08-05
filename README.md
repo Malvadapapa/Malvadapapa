@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CRISTIAN VARGAS!!</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> I'm CRISTIAN VARGAS!!</h1>
 <h3 align="center">A Higher Technical Degree in Software Development student and Full Stack Developer.</h3>
 
 - 🔭 I’m currently working on [ARGBrokerDemo](https://github.com/INNOVAcodersISPC/ARGBroker)
