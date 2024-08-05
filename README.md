@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> I'm CRISTIAN VARGAS!!</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm CRISTIAN VARGAS!!</h1>
 <h3 align="center">A Higher Technical Degree in Software Development student and Full Stack Developer.</h3>
 
 - 🔭 I’m currently working on [ARGBrokerDemo](https://github.com/INNOVAcodersISPC/ARGBroker)
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **cristian.v62@gmail.com**
 
-<h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px"></h3>
+<h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/cristian-vargas-npm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristian-vargas-npm/" height="30" width="40" /></a>
 </p>
