@@ -1,11 +1,12 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm CRISTIAN VARGAS!!</h1>
 <h3 align="center">A Higher Technical Degree in Software Development student and Full Stack Developer.</h3>
 
-- 🔭 I’m currently working on [ARGBrokerDemo](https://github.com/INNOVAcodersISPC/ARGBroker)
-
-- 🔭 And [Tap&Talk](https://github.com/Malvadapapa/tap-talk)
+- 🔭 I’m currently working on [ARGBroker](https://github.com/Innovacoders-devs/ArgBroker)
+- 🔭 And [Sistema control ambiental para arquitectura de computadoras](https://wokwi.com/projects/413649035582706689)
+- 🔭 And [Sensor de luz con bdd](https://github.com/Malvadapapa/websocketWokwi-server.git)
+- 🔭 And [websocketWokwi](https://github.com/Malvadapapa/websocketWokwi-server.git)
   
--  🌱 I’m currently learning **React, Nodejs, Python**
+-  🌱 I’m currently learning **Javscript (React, Nodejs, Next js) y Python (Flask)**
 
 - 📫 How to reach me **cristian.v62@gmail.com**
 
