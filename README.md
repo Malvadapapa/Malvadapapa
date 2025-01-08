@@ -6,7 +6,16 @@
 - 🔭 And [Sensor de luz con bdd](https://github.com/Malvadapapa/websocketWokwi-server.git)
 - 🔭 And [websocketWokwi](https://github.com/Malvadapapa/websocketWokwi-server.git)
   
--  🌱 I’m currently learning **Javscript (React, Nodejs, Next js) y Python (Flask)**
+-  🌱 I’m currently learning **Java y Python (Flask)**
+
+<div align="center">
+  
+  ![malvadapapa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malvadapapa&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+  
+</div>
+
+
+
 
 - 📫 How to reach me **cristian.v62@gmail.com**
 
