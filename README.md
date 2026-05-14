@@ -43,7 +43,8 @@ Soy un desarrollador apasionado por crear soluciones escalables. Tengo experienc
 ### 📊 Proyectos Destacados (Hardware & IoT)
 - [Sistema control ambiental](https://wokwi.com/projects/413649035582706689) - Simulación en Wokwi.
 - [Sensor de luz con BDD](https://github.com/Malvadapapa/websocketWokwi-server.git) - Integración de WebSockets y bases de datos.
-
+- [ProfeSort](https://github.com/ProCoders-ISPC/ProfeSort) - Plataforma de gestión académica .
+- [ARGBroker](https://github.com/Innovacoders-devs/ArgBroker) - Sistema de gestión financiera.
 ---
 
 ### 📫 Contacto
